@@ -1,5 +1,7 @@
 # Chunker
 
+# A WMCT FORK TO ALLOW FOR CUSTOM BLOCK CONVERSIONS
+
 **Convert Minecraft worlds between Java Edition and Bedrock Edition**
 
 Chunker is a Java application which allows you to convert Java and Bedrock Minecraft worlds. It provides a simple
