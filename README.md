@@ -1,6 +1,6 @@
 # Chunker
 
-# A WMCT FORK TO ALLOW FOR CUSTOM BLOCK CONVERSIONS
+# A WMCT FORK TO TEST CUSTOM BLOCK CONVERSIONS
 
 **Convert Minecraft worlds between Java Edition and Bedrock Edition**
 
